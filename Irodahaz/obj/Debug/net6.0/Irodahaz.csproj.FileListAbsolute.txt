@@ -1,0 +1,14 @@
+C:\Users\Tanulásos\source\repos\Irodahaz\Irodahaz\bin\Debug\net6.0\Irodahaz.exe
+C:\Users\Tanulásos\source\repos\Irodahaz\Irodahaz\bin\Debug\net6.0\Irodahaz.deps.json
+C:\Users\Tanulásos\source\repos\Irodahaz\Irodahaz\bin\Debug\net6.0\Irodahaz.runtimeconfig.json
+C:\Users\Tanulásos\source\repos\Irodahaz\Irodahaz\bin\Debug\net6.0\Irodahaz.dll
+C:\Users\Tanulásos\source\repos\Irodahaz\Irodahaz\bin\Debug\net6.0\Irodahaz.pdb
+C:\Users\Tanulásos\source\repos\Irodahaz\Irodahaz\obj\Debug\net6.0\Irodahaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanulásos\source\repos\Irodahaz\Irodahaz\obj\Debug\net6.0\Irodahaz.AssemblyInfoInputs.cache
+C:\Users\Tanulásos\source\repos\Irodahaz\Irodahaz\obj\Debug\net6.0\Irodahaz.AssemblyInfo.cs
+C:\Users\Tanulásos\source\repos\Irodahaz\Irodahaz\obj\Debug\net6.0\Irodahaz.csproj.CoreCompileInputs.cache
+C:\Users\Tanulásos\source\repos\Irodahaz\Irodahaz\obj\Debug\net6.0\Irodahaz.dll
+C:\Users\Tanulásos\source\repos\Irodahaz\Irodahaz\obj\Debug\net6.0\refint\Irodahaz.dll
+C:\Users\Tanulásos\source\repos\Irodahaz\Irodahaz\obj\Debug\net6.0\Irodahaz.pdb
+C:\Users\Tanulásos\source\repos\Irodahaz\Irodahaz\obj\Debug\net6.0\Irodahaz.genruntimeconfig.cache
+C:\Users\Tanulásos\source\repos\Irodahaz\Irodahaz\obj\Debug\net6.0\ref\Irodahaz.dll
